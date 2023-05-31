@@ -1,5 +1,6 @@
 import csv
 import math
+
 from collections import deque
 
 # Define the City class
